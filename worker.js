@@ -580,7 +580,7 @@ imports.wbg.__wbindgen_memory = function() {
     return addHeapObject(ret);
 };
 imports.wbg.__wbindgen_closure_wrapper181 = function(arg0, arg1, arg2) {
-    const ret = makeClosure(arg0, arg1, 34, __wbg_adapter_46);
+    const ret = makeClosure(arg0, arg1, 32, __wbg_adapter_46);
     return addHeapObject(ret);
 };
 
